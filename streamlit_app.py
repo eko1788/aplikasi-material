@@ -953,4 +953,3 @@ elif menu == "Laporan Excel":
         "Stok Barang, Riwayat Transaksi, "
         "dan Master Barang."
     )
-```
