@@ -1,8 +1,3 @@
-from pathlib import Path
-import zipfile, textwrap, json, os
-
-out = Path("/mnt/data/gudang_web")
-out.mkdir(exist_ok=True)
 
 html = r'''<!doctype html>
 <html lang="id">
