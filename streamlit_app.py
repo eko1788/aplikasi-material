@@ -4,7 +4,6 @@ st.title("This is a title")
 st.title("_Streamlit_ is :blue[cool] :sunglasses:")
 st.title("Dashboard", icon=":material/dashboard:")
 
-```python
 import streamlit as st
 import sqlite3
 import pandas as pd
