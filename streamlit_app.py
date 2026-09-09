@@ -4,7 +4,7 @@ st.title(":blue[MATERIAL STOK SPAREPART]")
 st.title("Aplikasi Material HUT Purwokerto :blue[] :sunglasses:")
 st.title("Dashboard", icon=":material/dashboard:")
 
-```python
+
 import streamlit as st
 import sqlite3
 import pandas as pd
