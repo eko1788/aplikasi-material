@@ -4,8 +4,6 @@ import pandas as pd
 import io
 import os
 from datetime import datetime
-from openpyxl.styles import Font, PatternFill, Alignment
-from openpyxl.utils import get_column_letter
 
 # =========================================================
 # CONFIG
